@@ -1,0 +1,95 @@
+.container
+{
+    border: 1px solid black;
+    width:900px;
+    margin: auto;
+    padding:2%;
+}
+img{
+    width: 70px;
+    aspect-ratio: auto 70 / 70;
+    height: 70px;
+}
+h1{
+    text-align: center;
+    display: inline;
+    margin-left: 10%;
+}
+address{
+    text-align: center;
+    display: block;
+    font-family: italic;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+.link{
+    text-align: center;
+}
+.link a{
+    color:purple;
+    cursor: pointer;
+    text-decoration: underline;
+}
+h4{
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    font-weight: bold;
+}
+.bill{
+    display: block;   
+}
+.heading{
+    display: inline;
+    margin-left: 30%;
+}
+.photo{
+    border:1px solid black;
+    width:95px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 22%;
+    margin-top: -3%;
+}
+.personalinfo{
+    display: inline-block;
+    width: 800px;
+}
+input {
+    border: none;
+    border-bottom: 1px solid black;
+    width: 500px;
+    padding-block: 1px;
+    padding-inline: 2px;
+}
+h3{
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+.rules{
+    margin-left: 4%;
+}
+.condition{
+    font-size: 1.17em;
+    text-align: center;
+}
+.table{
+    width:500px;
+    margin-left: 15%;
+    margin-top: -2%;
+    display:table;
+    border-spacing: 2px;
+    text-indent: initial;
+    box-sizing: border-box;
+}
+table,tr,th,td{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+.tableimg{
+    width:300px;
+} 
